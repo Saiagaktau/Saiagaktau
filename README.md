@@ -12,5 +12,5 @@
 - 📌Kang Recode
 
 <h1 align="center">My Game
-<img src="https://telegra.ph/file/5963b35143eea9ab2c928.mp4" />
+<img src="https://telegra.ph/file/5963b35143eea9ab2c928.jpg" />
 </p>
