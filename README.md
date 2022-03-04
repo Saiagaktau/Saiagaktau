@@ -10,3 +10,7 @@
 - 🗣️ I am 17 years old 
 - 🏘️ Lumajang 
 - 📌Kang Recode
+
+<h1 align="center">My Game
+<img src="https://telegra.ph/file/7b7ced30dbd95391afe20.jpg" />
+</p>
