@@ -7,8 +7,7 @@
 <p align="center">
 
 - 👩‍🦰 My name is IKKYSAHA?
-- 🗣️ I am 17 years old 
+- 🗣️ I am Bocil
 - 🏘️ Lumajang 
-- 📌Kang Recode
-
-
+- 📌 Kang Recode
+- YONDATAU SU
