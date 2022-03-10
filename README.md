@@ -6,9 +6,9 @@
 
 <p align="center">
 
-- 👩‍🦰 My name is IKKYSAHA?
+- 👩‍🦰 My name is ImellChann?
 - 🗣️ I am Bocil
-- 🏘️ Lumajang 
+- 🏘️ Suroboyo 
 - 📌 Kang Recode
 - YONDATAU SU
   
