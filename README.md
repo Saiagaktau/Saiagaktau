@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/nckyy_21/">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
- <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+
   <a href="https://wa.me/6281276234460">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
