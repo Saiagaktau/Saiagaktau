@@ -6,7 +6,7 @@
 
 <p align="center">
 
-- 👩‍🦰 My name is  ɪ ᴍ ᴇ ʟ 
+- 👩‍🦰 My name is  Ｔａｓｙａ 
 - 🗣️ I am 17
 - 🏘️ Suroboyo 
 - 📌 Kang Recode
